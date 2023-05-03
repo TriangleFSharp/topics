@@ -1,0 +1,27 @@
+// A - Aggregate (event sourcing) / Accessibility / System.Adaptive
+// B - Bind / Lambda Birds
+// C - Currying / Category theory
+// D - Discriminated Union
+// E - Either (option) and Result
+// F - Functor / Free monad / F# / Fable
+// G - Groups: Group theory / group by / Garbage Collection
+// H - Hylomorphisms and other morphisms (and also probably covariance/contravariance even though they aren't really related)
+// I - I/O
+// J - Jobs? 
+// K - K-Combinator (let K a b = a) and friends
+// L - List
+// M - Modules (Monads are too predictable)
+// N - Nulls (or lack thereof) and where they pop up
+// O - Objects / Optics
+// P - Protobufs and alternatives
+// Q - Quorations (code quotations) / Queries
+// R - Recursion
+// S - Substitution (is the foundation of computation)
+// T - Terminal, Tail recursion
+// U - Units of measure (and Unit)
+// V - Vectors
+// W - Wasm / with
+// X - Xml comments / Xslt
+// Y - Y combinator
+// Z - Z3
+
