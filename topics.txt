@@ -7,7 +7,7 @@
 // G - Groups: Group theory / group by / Garbage Collection
 // H - Hylomorphisms and other morphisms (and also probably covariance/contravariance even though they aren't really related)
 // I - I/O
-// J - Jobs? 
+// J - Jobs? Javascript-interop
 // K - K-Combinator (let K a b = a) and friends
 // L - List
 // M - Modules (Monads are too predictable)
