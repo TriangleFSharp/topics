@@ -8,16 +8,16 @@
 // H - Hylomorphisms and other morphisms (and also probably covariance/contravariance even though they aren't really related)
 // I - I/O
 // J - Jobs? Javascript-interop
-// K - K-Combinator (let K a b = a) and friends
-// L - List
-// M - Modules (Monads are too predictable)
+// K - K-Combinator (let K a b = a), Kleisli composition, Kestrel
+// L - List, Lambda, Lazy, Lenses
+// M - Modules (Monads are too predictable), Map, Match, Memoize
 // N - Nulls (or lack thereof) and where they pop up
-// O - Objects / Optics
-// P - Protobufs and alternatives
+// O - Objects, Optics, Option, Operators
+// P - Protobufs and alternatives, Pattern matching, partial application, pipe operator, parallelism
 // Q - Quorations (code quotations) / Queries
 // R - Recursion
 // S - Substitution (is the foundation of computation)
-// T - Terminal, Tail recursion
+// T - Terminal, Tail recursion, Type provider
 // U - Units of measure (and Unit)
 // V - Vectors
 // W - Wasm / with
